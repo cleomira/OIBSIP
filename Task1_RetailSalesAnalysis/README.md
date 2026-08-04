@@ -1,3 +1,10 @@
+[EDA on Retail Sales Data.ipynb](https://github.com/user-attachments/files/30700357/EDA.on.Retail.Sales.Data.ipynb)
+[customer_shopping_data.csv](https://github.com/user-attachments/files/30700390/customer_shopping_data.csv)
+<img width="634" height="337" alt="Monthly-Trend" src="https://github.com/user-attachments/assets/fac9e989-8a32-4d9a-aaef-e36669d45ac3" />
+<img width="605" height="334" alt="Customers Age distribution" src="https://github.com/user-attachments/assets/fc18ccff-e909-4184-a813-2138e969ae48" />
+<img width="650" height="334" alt="Top best selling products" src="https://github.com/user-attachments/assets/ee8196f9-7bda-4215-bb2c-c96c6e115fd7" />
+<img width="666" height="333" alt="Revenue by product category" src="https://github.com/user-attachments/assets/4a2ba53d-985b-4aae-b338-8270ce711a17" />
+<img width="625" height="320" alt="Monthly Sales Year-over-Year Comparison" src="https://github.com/user-attachments/assets/3a3aa35d-7a2c-4b1d-84a0-9ae8db30082b" />
 
 # Task 1: Retail Sales Analysis
 
